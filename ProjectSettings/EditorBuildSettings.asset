@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Terrain Cinemachine.unity
+    guid: 2fb339b97babbce4ba130027c81d7750
   m_configObjects: {}
